@@ -1,5 +1,5 @@
 # Tkinter-Password-Store
-<span style="color: red;">this project was archived and is from 21/07/2020</span>
+🔴this project was archived and is from 21/07/2020🔴
 Password Store App with UI
 
 App created with store and in built rudementary encryption. Tkinter library used for front end UI.
